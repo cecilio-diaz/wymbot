@@ -1,7 +1,7 @@
 # XYMBOT:
 Xymbot is an effort to develop a fault detection system based on the detection of outliers. Being an easy way to modularly integrate a powerful anomaly detection engine in IoT architectures. Variable and static parameters can be monitored as well as scaled as customers need it.
 
-## Versiones disponibles.
+## Available Versions
 
 | Funciones                                  | v1.0  |
 | :---                                       | :---: |
